@@ -7,9 +7,14 @@
     margin-top: 2vh;
     background-size: 100%;
 }
-
+.standout {
+  color:red!important;
+  font-size: 2.5vmin!important;
+  text-align: center!important;
+}
 p{
     font-size: 2.5vmin;
+    text-align: center;
 }
 
 h2{
@@ -32,7 +37,7 @@ table td {
 
 a {
   font-size: 3vmin;
-  display: block;
+  /*display: block;*/
   color:#242456;
   text-decoration: none;
 }
@@ -49,11 +54,11 @@ border-spacing:1em;
   
 }
 .banner p {
-  font-size: 3vmin;
+  font-size: 2.5vmin;
 }
 
 .banner a {
-  font-size:3vmin;
+  font-size:2.5vmin;
   color:#242456;
   font-weight:lighter;
   cursor:pointer;
@@ -87,6 +92,7 @@ body{
 .info{
     font-size: 2.5vmin;
     color:black;
+    text-align: center;
 }
 
 
